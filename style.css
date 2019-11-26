@@ -2,7 +2,7 @@ body {
     font: 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
-    text-transform:lowercase;
+    text-transform:capitalize;
     letter-spacing: .5em;
     top: 15%;
     background: linear-gradient(to right, black, red);
